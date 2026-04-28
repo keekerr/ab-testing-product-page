@@ -46,8 +46,16 @@ The dataset includes sample user level experiment data with the following fields
 The test group showed a higher conversion rate than the control group. The analysis evaluated wheather the lift was statistically significant and wheather the redesign should be rolled out.
 
 ## Business Recommendation
+The test variant demonstrated an improvement in conversion rate compared to the control group, indicating that the redesigned experience has the potential to drive better user outcomes. However, the final recommendation depends on statistical significance and consistency across key segments.
+
+If the observed lift is statistically significant and consistent across major user groups (e.g., device type, traffic source), the recommendation is to proceed with a phased rollout of the new experience. 
+
+If results vary significantly by segment or lack statistical significance, the recommendation is to continue testing with refined variations or increased sample size to validate the impact.
+
+Overall, the analysis suggests that the new design is directionally positive, but a controlled rollout or additional testing is recommended to mitigate risk and ensure sustained performance improvements.
 
 ## Dashboard
+<img width="1382" height="795" alt="image" src="https://github.com/user-attachments/assets/82a87b02-0012-47fc-baea-6134d464ef96" />
 
 ## Portfolio Link
-View the full business case and dashboard summary in my Notion portfolio: 
+View the full business case and dashboard summary in my [Notion portfolio](https://www.notion.so/Data-Science-Portfolio-6edb5c142bd5828688a901519a004abb?source=copy_link)
