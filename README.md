@@ -54,7 +54,7 @@ If results vary significantly by segment or lack statistical significance, the r
 
 Overall, the analysis suggests that the new design is directionally positive, but a controlled rollout or additional testing is recommended to mitigate risk and ensure sustained performance improvements.
 
-## Dashboard
+## [Dashboard](https://docs.google.com/presentation/d/1nSi-P1MyU5ef-LfpSos11-VHC4BnEKGXtS8qPr0CbFA/edit?usp=sharing)
 <img width="1382" height="795" alt="image" src="https://github.com/user-attachments/assets/82a87b02-0012-47fc-baea-6134d464ef96" />
 
 ## Portfolio Link
